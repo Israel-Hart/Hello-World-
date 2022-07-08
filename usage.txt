@@ -1,0 +1,19 @@
+HOW TO USE THS FILE 
+
+The file was written using the java programming language.
+
+To run it java's JDK or IDE will be required. 
+
+To run the file in a terminal using java's JDK 
+
+1. extract file in a folder. 
+2. navigate to the folder containing main.java file. 
+3. use the javac "runnable name" main.java command to compile file. 
+4. use the java  "runnable name" command to run file.
+
+To run the file in an IDE 
+
+1. click of file > open file > select main.java file 
+2. click open and then run.
+
+Thank for trying the third most basic code I ever wrote.
